@@ -120,9 +120,9 @@ These findings highlight the significant role of nutrition and lifestyle factors
 Glucose-Spike-Prediction/
 |
 ├── data/
-├── notebooks/
+├── src/
 ├── models/
-├── reports/
+├── outputs/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
